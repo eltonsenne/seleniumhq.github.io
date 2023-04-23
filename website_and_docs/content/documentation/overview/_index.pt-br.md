@@ -3,7 +3,7 @@ title: "Resumo"
 linkTitle: "Resumo"
 weight: 2
 description: >
-  Será Selenium a ferramenta para você? Veja um resumo dos componentes do projecto.
+  Selenium é a ferramenta certa para você? Veja um resumo dos componentes do projeto.
 aliases: ["/documentation/pt-br/introduction/"]
 ---
 
@@ -14,7 +14,7 @@ mas sim uma composição de várias ferramentas.
 
 Se você está começando com automação de testes de um site de desktop ou site para celular, então
 vai usar as APIs WebDriver. O [WebDriver]({{< ref "/webdriver.md" >}})
-usa APIs de automação de navegador disponibilizadas por fornecedores de navegador para o controlar e
+usa APIs de automação de navegador disponibilizadas por fornecedores de navegador para controlar e
 executar testes. É como se um usuário real o estivesse operando. Como o
 WebDriver não exige que sua API seja compilada com o código do aplicativo,
 não é intrusivo. Portanto, você está testando o
