@@ -32,7 +32,7 @@ Leia mais sobre opções avançadas para iniciar um driver
 
 O Gerenciador Selenium te ajuda a ter um ambiente de desenvolvimento rodando Selenium mais facilmente.
 O primeiro Beta irá configurar os drivers para Chrome, Firefox e Edge se eles não forem
-encontrados no `PATH`. Nem uma configuração extra será necessária. Versões futuras do Gerenciador Selenium
+encontrados no `PATH`. Nenhuma configuração extra será necessária. Versões futuras do Gerenciador Selenium
 irão eventualmente poder realizar o download dos browsers se necessário.
 
 Leia mais no anúncio feito no blog sobre o [Gerenciador Selenium](/blog/2022/introducing-selenium-manager/).
