@@ -138,7 +138,7 @@ driver = RemoteWebDriver(options)
 
 ## Extras
 
-Ao invés do Chrome, os extras do Firefos não são adicionados como parte das capacidades, mas sim após iniciar o driver.
+Ao contrário do Chrome, os extras do Firefox não são adicionados como parte das capacidades, mas sim após iniciar o driver.
 
 Unlike Chrome, Firefox extensions are not added as part of capabilities as mentioned in
 [this issue](https://github.com/mozilla/geckodriver/issues/1476),
